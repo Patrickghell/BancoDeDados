@@ -136,6 +136,34 @@ após essa tela clique em 'Next'.
 ![image](https://github.com/user-attachments/assets/cff5a2d4-080b-49a9-87bf-b047fffe6311)
 
 
+## Como usar
+Abra XAMPP e confira se o Apache e o MySQL estão ativados.
+
+![image](https://github.com/user-attachments/assets/7741c408-f513-42b6-af08-c398b83867a5)
+
+Caso não esteja é só precionar o botão 'Start' de ambos, após isso precione o botão de Admin do MySQL.
+
+Vai abri em seu navegador essa tela 
+
+![image](https://github.com/user-attachments/assets/26652dd4-c20e-4edf-bb53-c8430bf31f85)
+
+
+Você deve criar uma nova tabela precionado o botão novo
+
+![image](https://github.com/user-attachments/assets/43fc06a4-4b39-4b2f-8ce7-826316e0259b)
+
+Após isso abra sua nova tabela e precione Importar.
+
+![image](https://github.com/user-attachments/assets/aa26b964-10a1-4eaa-85b3-72b3c584c317)
+
+e selecione o arquivo da Base de dados do nosso projeto.
+
+Caso não tenha feito o download da base de dados:
+
+
+
+
+
 
 
 
