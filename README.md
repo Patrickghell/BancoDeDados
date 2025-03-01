@@ -107,11 +107,35 @@ Instalar o XAMPP
 **Visual Studio**
 
 Após intalar em seu computador vai para pasta Downloads e da dois cliks no arquivo.
+
 ![image](https://github.com/user-attachments/assets/8357b40b-c5cb-4241-b82e-f879c99e6958)
 
 após aparecer essa tela selecione tudo que tenha C#
+
 ![image](https://github.com/user-attachments/assets/9758bc53-3d05-40e9-9b97-65b9fe2f981b)
-e espere o fim da instalação
+
+clique no botão de instalar e espere o fim da instalação.
+
+**XAMPP**
+Após intalar em seu computador vai para pasta Downloads e da dois cliks no arquivo.
+
+![image](https://github.com/user-attachments/assets/b7f37876-1016-4c07-abed-860b002c12ad)
+
+após essa tela clique em 'Next'.
+
+![image](https://github.com/user-attachments/assets/5aa96c2a-3a12-4e1c-a8eb-5190ed55c974)
+
+
+ clique em 'Next' Novamente.
+ 
+![image](https://github.com/user-attachments/assets/59832983-4995-4fa3-866e-a7e08601ae4d)
+
+
+ Escolha a pasta onde vai ser instalado e clique em 'Next' Novamente.
+ 
+![image](https://github.com/user-attachments/assets/865ba5f7-68e5-48ee-9625-154d2a2730ea)
+
+
 
 
 
