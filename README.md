@@ -175,7 +175,14 @@ e procure o nosso prjeto.
 
 caso não tenha baixado nosso projeto
 
-[Projeto](./Bancodedados-ds)
+baixe a pasta Banco de dados-ds.
+
+Não esqueça das referencias 
+![image](https://github.com/user-attachments/assets/4b027387-f12a-4bed-9f1d-49b073d04555)
+confira se todas estão instaladas, caso não esteja é apenas adicionalas.
+
+E faça bom proveito do projeto.
+
 
 
 
