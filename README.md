@@ -93,6 +93,7 @@ Este projeto está licenciado sob a licença [GPL-3.0](https://www.gnu.org/licen
 
 Intalar o Visual Studio 2022
 [Dowload Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/)
+
 **Bibliotecas Visual Studio**
 
 - using MySql.Data.MySqlClient;
