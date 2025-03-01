@@ -93,6 +93,10 @@ Este projeto está licenciado sob a licença [GPL-3.0](https://www.gnu.org/licen
 
 Intalar o Visual Studio 2022
 [Dowload Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/)
+**Bibliotecas Visual Studio**
+
+- using MySql.Data.MySqlClient;
+- using Microsoft.Office.Interop.Excel;
 
 Instalar o XAMPP
 [Dowload XAMPP](https://www.apachefriends.org/pt_br/download.html)
@@ -106,7 +110,10 @@ Após intalar em seu computador vai para pasta Downloads e da dois cliks no arqu
 
 após aparecer essa tela selecione tudo que tenha C#
 ![image](https://github.com/user-attachments/assets/9758bc53-3d05-40e9-9b97-65b9fe2f981b)
-e espere a instalação 
+e espere o fim da instalação
+
+
+
 
 
 
