@@ -161,7 +161,7 @@ e selecione o arquivo da Base de dados do nosso projeto.
 Caso não tenha feito o download da base de dados:
 
 Banco de dados-ds/dsteste.sql
-[Banco de dados](./dsteste.sql)
+[Banco de dados](Bancodedados./dsteste.sql)
 
 
 
