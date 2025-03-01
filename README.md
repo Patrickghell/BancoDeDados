@@ -89,6 +89,35 @@ Este projeto está licenciado sob a licença [GPL-3.0](https://www.gnu.org/licen
 
 
 
+##  Requisitos para usar o projeto
+
+Intalar o Visual Studio 2022
+[Dowload Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/)
+
+Instalar o XAMPP
+[Dowload XAMPP](https://www.apachefriends.org/pt_br/download.html)
+
+## Como Instalar 
+
+#Visual Studio
+Após intalar em seu computador vai para pasta Downloads e da dois cliks no arquivo.
+![image](https://github.com/user-attachments/assets/8357b40b-c5cb-4241-b82e-f879c99e6958)
+
+após aparecer essa tela selecione tudo que tenha C#
+![image](https://github.com/user-attachments/assets/9758bc53-3d05-40e9-9b97-65b9fe2f981b)
+e espere a instalação 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
