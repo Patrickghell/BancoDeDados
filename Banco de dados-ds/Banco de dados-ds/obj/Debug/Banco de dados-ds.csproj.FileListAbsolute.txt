@@ -1,0 +1,155 @@
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\Banco de dados-ds.exe.config
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\Banco de dados-ds.exe
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\Banco de dados-ds.pdb
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.csproj.AssemblyReference.cache
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.Form1.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.Properties.Resources.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.csproj.GenerateResource.cache
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.csproj.CoreCompileInputs.cache
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.exe
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.pdb
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.AlunoCadastrar.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.FuncionarioCadastrar.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.ProfessorCadastrar.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\MySql.Data.dll
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\Google.Protobuf.dll
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\MySql.Data.xml
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.csproj.CopyComplete
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.AlunoVisualizar.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.csproj.ResolveComReference.cache
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.ProfessorVisualizar.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.FuncionarioVisualizar.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.ProfessorExcluir.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.ProfessorAlterar.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.FuncionarioAlterar.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.AlunoAlterar.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.AlunoExcluir.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.FuncionarioExcluir.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.csproj.AssemblyReference.cache
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.csproj.ResolveComReference.cache
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.AlunoAlterar.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.AlunoCadastrar.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.AlunoExcluir.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.AlunoVisualizar.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.Form1.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.turmaAlterar.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.turmaCadastrar.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.FuncionarioAlterar.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.FuncionarioCadastrar.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.FuncionarioExcluir.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.FuncionarioVisualizar.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.ProfessorAlterar.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.ProfessorCadastrar.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.ProfessorExcluir.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.ProfessorVisualizar.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.Properties.Resources.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.turmaExcluir.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.csproj.GenerateResource.cache
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.csproj.CoreCompileInputs.cache
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.exe
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.pdb
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\Banco de dados-ds.exe.config
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\Banco de dados-ds.exe
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\Banco de dados-ds.pdb
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\MySql.Data.dll
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\Google.Protobuf.dll
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\MySql.Data.xml
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.csproj.CopyComplete
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.turmaVisualizar.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaAlunoAlt.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaAlunoExc.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaProfessorAlt.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaProfessorExc.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaAlunoCad.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaAlunoVis.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaProfessorCad.resources
+D:\etim2023.ds\Desktop\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaProfessorVis.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.turmaAlterar.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaAlunoAlt.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaAlunoCad.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaAlunoExc.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaAlunoVis.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.turmaCadastrar.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.turmaExcluir.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaProfessorAlt.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaProfessorCad.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaProfessorExc.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaProfessorVis.resources
+F:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.turmaVisualizar.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\Banco de dados-ds.exe.config
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\Banco de dados-ds.exe
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\Banco de dados-ds.pdb
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\MySql.Data.dll
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\Google.Protobuf.dll
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\MySql.Data.xml
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.csproj.AssemblyReference.cache
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.csproj.ResolveComReference.cache
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.AlunoAlterar.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.AlunoCadastrar.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.AlunoExcluir.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.AlunoVisualizar.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.Form1.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.turmaAlterar.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaAlunoAlt.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaAlunoCad.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaAlunoExc.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaAlunoVis.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.turmaCadastrar.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.FuncionarioAlterar.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.FuncionarioCadastrar.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.FuncionarioExcluir.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.FuncionarioVisualizar.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.ProfessorAlterar.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.ProfessorCadastrar.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.ProfessorExcluir.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.ProfessorVisualizar.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.Properties.Resources.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.turmaExcluir.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaProfessorAlt.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaProfessorCad.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaProfessorExc.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaProfessorVis.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.turmaVisualizar.resources
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.csproj.GenerateResource.cache
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.csproj.CoreCompileInputs.cache
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.csproj.CopyComplete
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.exe
+G:\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.pdb
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.csproj.AssemblyReference.cache
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.csproj.ResolveComReference.cache
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.AlunoAlterar.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.AlunoCadastrar.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.AlunoExcluir.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.AlunoVisualizar.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.Form1.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.turmaAlterar.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaAlunoAlt.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaAlunoCad.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaAlunoExc.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaAlunoVis.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.turmaCadastrar.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.FuncionarioAlterar.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.FuncionarioCadastrar.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.FuncionarioExcluir.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.FuncionarioVisualizar.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.ProfessorAlterar.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.ProfessorCadastrar.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.ProfessorExcluir.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.ProfessorVisualizar.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.Properties.Resources.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.turmaExcluir.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaProfessorAlt.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaProfessorCad.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaProfessorExc.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.TurmaProfessorVis.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco_de_dados_ds.turmaVisualizar.resources
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.csproj.GenerateResource.cache
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.csproj.CoreCompileInputs.cache
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.exe
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de dados-ds.pdb
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\Banco de dados-ds.exe.config
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\Banco de dados-ds.exe
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\Banco de dados-ds.pdb
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\Google.Protobuf.dll
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\bin\Debug\MySql.Data.xml
+D:\2°Ano\DS\BancoDeDados\Banco de dados-ds\Banco de dados-ds\obj\Debug\Banco de.8C853CB0.Up2Date

@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7D39325D-BF6E-44FA-9D0D-48C5D3740A3E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Banco_de_dados_ds</RootNamespace>
+    <AssemblyName>Banco de dados-ds</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.15.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AlunoAlterar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlunoAlterar.Designer.cs">
+      <DependentUpon>AlunoAlterar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlunoCadastrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlunoCadastrar.Designer.cs">
+      <DependentUpon>AlunoCadastrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlunoExcluir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlunoExcluir.Designer.cs">
+      <DependentUpon>AlunoExcluir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlunoVisualizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlunoVisualizar.Designer.cs">
+      <DependentUpon>AlunoVisualizar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="turmaAlterar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turmaAlterar.Designer.cs">
+      <DependentUpon>turmaAlterar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TurmaAlunoAlt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TurmaAlunoAlt.Designer.cs">
+      <DependentUpon>TurmaAlunoAlt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TurmaAlunoCad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TurmaAlunoCad.Designer.cs">
+      <DependentUpon>TurmaAlunoCad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TurmaAlunoExc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TurmaAlunoExc.Designer.cs">
+      <DependentUpon>TurmaAlunoExc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TurmaAlunoVis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TurmaAlunoVis.Designer.cs">
+      <DependentUpon>TurmaAlunoVis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="turmaCadastrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turmaCadastrar.Designer.cs">
+      <DependentUpon>turmaCadastrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FuncionarioAlterar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FuncionarioAlterar.Designer.cs">
+      <DependentUpon>FuncionarioAlterar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FuncionarioCadastrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FuncionarioCadastrar.Designer.cs">
+      <DependentUpon>FuncionarioCadastrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FuncionarioExcluir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FuncionarioExcluir.Designer.cs">
+      <DependentUpon>FuncionarioExcluir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FuncionarioVisualizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FuncionarioVisualizar.Designer.cs">
+      <DependentUpon>FuncionarioVisualizar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfessorAlterar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfessorAlterar.Designer.cs">
+      <DependentUpon>ProfessorAlterar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfessorCadastrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfessorCadastrar.Designer.cs">
+      <DependentUpon>ProfessorCadastrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfessorExcluir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfessorExcluir.Designer.cs">
+      <DependentUpon>ProfessorExcluir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfessorVisualizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfessorVisualizar.Designer.cs">
+      <DependentUpon>ProfessorVisualizar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="turmaExcluir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turmaExcluir.Designer.cs">
+      <DependentUpon>turmaExcluir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TurmaProfessorAlt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TurmaProfessorAlt.Designer.cs">
+      <DependentUpon>TurmaProfessorAlt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TurmaProfessorCad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TurmaProfessorCad.Designer.cs">
+      <DependentUpon>TurmaProfessorCad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TurmaProfessorExc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TurmaProfessorExc.Designer.cs">
+      <DependentUpon>TurmaProfessorExc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TurmaProfessorVis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TurmaProfessorVis.Designer.cs">
+      <DependentUpon>TurmaProfessorVis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="turmaVisualizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turmaVisualizar.Designer.cs">
+      <DependentUpon>turmaVisualizar.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AlunoAlterar.resx">
+      <DependentUpon>AlunoAlterar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlunoCadastrar.resx">
+      <DependentUpon>AlunoCadastrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlunoExcluir.resx">
+      <DependentUpon>AlunoExcluir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlunoVisualizar.resx">
+      <DependentUpon>AlunoVisualizar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="turmaAlterar.resx">
+      <DependentUpon>turmaAlterar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TurmaAlunoAlt.resx">
+      <DependentUpon>TurmaAlunoAlt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TurmaAlunoCad.resx">
+      <DependentUpon>TurmaAlunoCad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TurmaAlunoExc.resx">
+      <DependentUpon>TurmaAlunoExc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TurmaAlunoVis.resx">
+      <DependentUpon>TurmaAlunoVis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="turmaCadastrar.resx">
+      <DependentUpon>turmaCadastrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FuncionarioAlterar.resx">
+      <DependentUpon>FuncionarioAlterar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FuncionarioCadastrar.resx">
+      <DependentUpon>FuncionarioCadastrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FuncionarioExcluir.resx">
+      <DependentUpon>FuncionarioExcluir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FuncionarioVisualizar.resx">
+      <DependentUpon>FuncionarioVisualizar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfessorAlterar.resx">
+      <DependentUpon>ProfessorAlterar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfessorCadastrar.resx">
+      <DependentUpon>ProfessorCadastrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfessorExcluir.resx">
+      <DependentUpon>ProfessorExcluir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfessorVisualizar.resx">
+      <DependentUpon>ProfessorVisualizar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="turmaExcluir.resx">
+      <DependentUpon>turmaExcluir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TurmaProfessorAlt.resx">
+      <DependentUpon>TurmaProfessorAlt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TurmaProfessorCad.resx">
+      <DependentUpon>TurmaProfessorCad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TurmaProfessorExc.resx">
+      <DependentUpon>TurmaProfessorExc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TurmaProfessorVis.resx">
+      <DependentUpon>TurmaProfessorVis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="turmaVisualizar.resx">
+      <DependentUpon>turmaVisualizar.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
