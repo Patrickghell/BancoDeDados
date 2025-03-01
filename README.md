@@ -47,6 +47,9 @@ Aqui está um exemplo simples de como exportar dados para uma planilha do Excel 
 
 
 📸 Demonstração
+
+
+
 ![image](https://github.com/user-attachments/assets/4b6fd99e-829d-4e52-a885-d9c8b74745a1)
 
 
