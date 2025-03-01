@@ -59,7 +59,32 @@ Tela Incial
 
 Tela da tabela Alunos
 
-![image](https://github.com/user-attachments/assets/bc7acd27-6e12-4061-b9a1-63452930cc40)
+![image](https://github.com/user-attachments/assets/f8b4c043-8212-45c5-b85c-f99a084cdb0e)
+
+Cadastrar Aluno
+
+![image](https://github.com/user-attachments/assets/f80efe79-58fa-4ddd-8fbc-21e55ffbff63)
+
+
+alterar
+
+![image](https://github.com/user-attachments/assets/c35e419f-86b3-4ab7-933f-41c02c885cb5)
+
+![image](https://github.com/user-attachments/assets/82b58429-cd07-48b1-bf23-66c56c1974d2)
+
+
+Excluir Aluno
+
+![image](https://github.com/user-attachments/assets/770be165-5df6-4af7-b63c-0deb84ef6874)
+
+
+Basicamente todos os outros seguem a mesma formatação.
+
+
+
+
+
+
  
 
 
