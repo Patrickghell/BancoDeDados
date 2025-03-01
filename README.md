@@ -14,7 +14,7 @@ Linguagem: C#
 Banco de Dados: MySQL (via MySql.Data.MySqlClient)
 Exportação para Excel: Microsoft Office Interop (Excel)
 Frameworks/Libraries:
-MySql.Data.MySqlClient para conexão e manipulação do banco de dados MySQL via ADO.NET.
+MySql.Data.MySqlClient para conexão e manipulação do banco de dados MySQL 
 Microsoft.Office.Interop.Excel para exportação de dados para o Excel e manipulação de planilhas diretamente no Excel.
 
 📄 Exemplo de Uso
