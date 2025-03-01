@@ -164,6 +164,22 @@ Banco de dados-ds/dsteste.sql
 [Banco de dados](./dsteste.sql)
 
 
+**Visual Studio 2022**
+
+abra o Visual Studi 2022
+![image](https://github.com/user-attachments/assets/fb58bcfa-6eba-47a5-bdbd-486b2d43e1b7)
+
+e precione abrir um projeto ou uma solução. 
+
+e procure o nosso prjeto.
+
+caso não tenha baixado nosso projeto
+
+[Projeto](./BancodeDados)
+
+
+
+
 
 
 
