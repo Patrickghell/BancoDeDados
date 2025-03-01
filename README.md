@@ -22,8 +22,9 @@ Aqui está um exemplo simples de como exportar dados para uma planilha do Excel 
 
  Microsoft.Office.Interop.Excel.Application XcellApp = new Microsoft.Office.Interop.Excel.Application();
  private void button2_Click(object sender, EventArgs e)
- {
 
+ {
+ 
      if (dataGridView1.Rows.Count > 0)
      {
          XcellApp.Application.Workbooks.Add(Type.Missing);
