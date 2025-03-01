@@ -99,7 +99,8 @@ Instalar o XAMPP
 
 ## Como Instalar 
 
-#Visual Studio
+**Visual Studio**
+
 Após intalar em seu computador vai para pasta Downloads e da dois cliks no arquivo.
 ![image](https://github.com/user-attachments/assets/8357b40b-c5cb-4241-b82e-f879c99e6958)
 
