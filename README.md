@@ -133,7 +133,7 @@ após essa tela clique em 'Next'.
 
  Escolha a pasta onde vai ser instalado e clique em 'Next' Novamente.
  
-![image](https://github.com/user-attachments/assets/865ba5f7-68e5-48ee-9625-154d2a2730ea)
+![image](https://github.com/user-attachments/assets/cff5a2d4-080b-49a9-87bf-b047fffe6311)
 
 
 
