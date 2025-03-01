@@ -85,7 +85,7 @@ Basicamente todos os outros seguem a mesma formatação.
 
 Este projeto está licenciado sob a licença [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0).
 
-[Leia a documentação completa](./LICENSE.PPTX)
+[Leia a documentação completa](./LICENSE.pptx)
 
 
 
